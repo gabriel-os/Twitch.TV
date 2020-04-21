@@ -1,11 +1,11 @@
 {
-    "vendor": "PatrickR",
+    "vendor": "Gabriel Santos",
     "iconColor": "#6441a5",
     "largeIcon": "largeIcon.png",
     "icon": "icon.png",
     "main": "index.html",
     "bgImage": "background.png",
-    "id": "com.patrickrorth.twitchtv",
+    "id": "com.gabrielsantos.twitch",
     "title": "Twitch",
     "type": "web",
     "version": "0.0.6",
